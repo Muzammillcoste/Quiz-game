@@ -1,0 +1,8 @@
+How many bits is a byte?(A)4(B)8(C)16(D)32: 
+Computers calculate numbers in what mode?(A)Decimal(B)Octal(C)Binary(D)None of the above: 
+The speed of your net access is defined in terms of:(A)RAM(B)MHz(C)Kbps(D)Megabytes: 
+Which of these is a search engine?(A)FTP(B)Google(C)Archie(D)ARPANET: 
+The letters, "DOS" stand for:(A)Data Out System(B)Disk Out System(C)Disk Operating System(D)Data Operating System: 
+What does CPU stand for?(A)Cute People United(B)Commonwealth Press Union(C)Computer Parts of USA(D)Central Processing Unit: 
+Main circuit board in a computer is:(A)Decoder(B)Highlight(C)Select(D)Mother board: 
+Which company created the most used networking software in the 1980's(A)Microsoft(B)Sun(C)IBM(D)Novell:

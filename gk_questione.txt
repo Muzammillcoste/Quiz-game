@@ -1,0 +1,8 @@
+Hardware devices that are not part of the main computer system and are often added later to the system.(A)Peripheral(B)Clip art(C)Highlight(D)Execute: 
+What do you call a computer on a network that requests files from another computer?.(A)Aclient(B)A host(C)A router(D)A web server: 
+The main computer that stores the files that can be sent to computers that are networked together is.(A)Clip art(B)Mother board(C)Periphera(D)File server: 
+Google (www.google.com) is a:(A) Search Engine(B)Number in Math(C)Directory of images(D)Chat service on the web: 
+Which is not an Internet protocol?(A)HTTP(B)FTP(C)STP(D)IP: 
+AOL stands for:(A)Arranged Outer Line(B)America Over LAN(C)Audio Over LAN(D)America On-line: 
+Another name for a computer chip is:(A)Execute(B)Micro chip(C)Microprocessor(D)Select: 
+"www" stands for:(A)World Wide Web(B)World Wide Wares(C)World Wide Wait(D)World Wide War:
